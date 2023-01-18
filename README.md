@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hola soy Cesar 🙋🏽‍♂️
 
-<!--
-**CesarCardozoUD/CesarCardozoUD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Ingeniero de Sistemas de la ciudad de Bogotá. 👨🏽‍💻 <br>
+Actualmente trabajo en el **[Banco de Bogotá](https://www.bancodebogota.com/wps/portal/banco-de-bogota/bogota)** como analista semi-senior. 🏦<br>
+<br>
+Me encanta mi profesión y soy muy proactivo, por lo que constantemente estoy creando y refinando proyectos tanto personales como laborales. 🥰<br>
+<br>
+Trabajo principalmente en Angular, React y AWS dado mi ambito laboral actual, sin embargo, tengo experiencia en muchos otros diversos lenguajes como Python, Go, **[MATLAB](https://ch.mathworks.com/matlabcentral/profile/authors/10675484)**, etc... 🤓
+<br>
+___
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contactame 🤙🏽
+📬 **Correo** : (cesar.cardozo.ud@gmail.com)<br>
+🖥️ **LinkedIn** : (https://www.linkedin.com/in/cesarcardozoud/)
