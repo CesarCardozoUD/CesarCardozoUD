@@ -1,7 +1,7 @@
 # Hola soy Cesar 🙋🏽‍♂️
 
 Soy Ingeniero de Sistemas de la ciudad de Bogotá. 👨🏽‍💻 <br>
-Actualmente trabajo en el **[Banco de Bogotá](https://www.bancodebogota.com/wps/portal/banco-de-bogota/bogota)** como analista semi-senior. 🏦<br>
+Actualmente trabajo en el **[Banco de Bogotá](https://www.bancodebogota.com/wps/portal/banco-de-bogota/bogota)** como analista desarrollador senior. 🏦<br>
 <br>
 Me encanta mi profesión y soy muy proactivo, por lo que constantemente estoy creando y refinando proyectos tanto personales como laborales. 🥰<br>
 <br>
